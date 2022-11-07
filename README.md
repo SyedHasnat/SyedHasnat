@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SyedHasnat
-- 👀 A passionate time series data analyst from Pakistan. Working on STLF (Short Load forecasting), Non-Intrusive Load Managment (NILM), application of RL (Reinforcement Learning) for energy trading.
-- 💞️ I’m looking to collaborate on the menttioned topics.
+<h1 align="center"> A passionate time series data analyst from Pakistan. Working on STLF (Short Load forecasting), Non-Intrusive Load Managment (NILM), application of RL (Reinforcement Learning) for energy trading.</h3>
 - 📫 Contact me at eng.syed.its@gmail.com
 
 <!---
