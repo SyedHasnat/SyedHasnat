@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SyedHasnat
-- 👀 I’m interested in machine leanring and electrical engineering projects
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on AI
+- 👀 A passionate time series data analyst from Pakistan. Working on STLF (Short Load forecasting), Non-Intrusive Load Managment (NILM), application of RL (Reinforcement Learning) for energy trading.
+- 💞️ I’m looking to collaborate on the menttioned topics.
 - 📫 Contact me at eng.syed.its@gmail.com
 
 <!---
