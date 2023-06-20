@@ -18,10 +18,12 @@ You can click the Preview link to take a look at your changes.
     </a>
     <a href="mailto:eng.syed.its@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    <!---
     </a>
     <a href="https://www.kaggle.com/tentative">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
+    --->   
 </p>
 
 ### Languages
