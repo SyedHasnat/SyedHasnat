@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedHasnat&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/SyedHasnat">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedHasnat&theme=transparent" />
   </a>
 </p>
 
