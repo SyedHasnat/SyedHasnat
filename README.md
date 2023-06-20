@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/SyedHasnat)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/SyedHasnat)
 [![Embedded C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/SyedHasnat)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/SyedHasnat)
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/SyedHasnat)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/SyedHasnat)
