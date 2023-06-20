@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
     <i>
         I'm Syed Muhammad Hasanat.<br>
         Currently working in ML/DL/RL.<br>
-        Open to collaborating on STLF, NILM, Energy Management.<br>
+        Open to collaborating on STLF, NILM and Energy Management.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/syed-muhammad-hasanat-a56562204/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
