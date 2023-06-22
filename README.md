@@ -2,6 +2,19 @@
 <!---
 SyedHasnat/SyedHasnat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+</a>
+<a href='paste link' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
+<a href="paste link">
+    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
+</a>
+<a href="paste">
+    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+</a>  
+<a href="paste link">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a> 
 --->
 <br/>
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
@@ -60,9 +73,14 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/SyedHasnat">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedHasnat&theme=transparent" />
   </a>
+  <a href="https://github.com/SyedHasnat">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedHasnat&theme=dracula" />
+  </a>    
+  <a href="https://github.com/SyedHasnat">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards//most-commit-language?username=SyedHasnat&theme=dracula" />
+  </a>  
 </p>
-
-
+ 
 <p align="center">
   <a href="https://github.com/SyedHasnat">
     <img src="https://komarev.com/ghpvc/?username=SyedHasnat&color=blue&style=flat)" />
