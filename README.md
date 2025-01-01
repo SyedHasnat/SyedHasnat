@@ -1,4 +1,3 @@
-
 <!---
 SyedHasnat/SyedHasnat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -36,12 +35,13 @@ You can click the Preview link to take a look at your changes.
     </a>
     <a href="mailto:eng.syed.its@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    <!---
     </a>
-    <a href="https://www.kaggle.com/tentative">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+    <a href="https://www.researchgate.net/profile.ProfileStatsImprovementSuggestions.html">
+        <img src="https://img.shields.io/badge/ResearchGate-green?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate">
     </a>
-    --->   
+    <a href="https://www.upwork.com/freelancers/~0179049014dc330b72">
+        <img src="https://img.shields.io/badge/Upwork-green?style=flat-square&logo=upwork" alt="Upwork">
+    </a>
 </p>
 
 ### Languages
@@ -61,7 +61,6 @@ You can click the Preview link to take a look at your changes.
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/SyedHasnat)
-
 
 <p align="center">
   <a href="https://github.com/SyedHasnat">
@@ -86,15 +85,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://komarev.com/ghpvc/?username=SyedHasnat&color=blue&style=flat)" />
   </a>
 </p>
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
