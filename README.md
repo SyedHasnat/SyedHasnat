@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
     </a>
     <a href="mailto:eng.syed.its@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    <a href="https://www.researchgate.net/profile.ProfileStatsImprovementSuggestions.html">
+    <a href="https://www.researchgate.net/profile/Syed-Muhammad-Hasanat">
         <img src="https://img.shields.io/badge/ResearchGate-green?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate">
     </a>
     <a href="https://www.upwork.com/freelancers/~0179049014dc330b72">
